@@ -19,6 +19,8 @@ managing territories, tracking competitors and managing opportunities.
 
 Apex  This is a strongly typed object-oriented, on-demand programming language. The syntax  looks mostly like Java and acts like stored procedures.
 
+## SuperBadges
+
 ### Apex Specialist
 
 Apex Specialist is one of the superbadges of Salesforce trailhead(A New Approach to 
