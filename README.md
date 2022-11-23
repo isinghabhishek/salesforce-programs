@@ -21,7 +21,7 @@ Apex  This is a strongly typed object-oriented, on-demand programming language. 
 
 ## SuperBadges
 
-### Apex Specialist
+### 1). Apex Specialist
 
 Apex Specialist is one of the superbadges of Salesforce trailhead(A New Approach to 
 Learning Salesforce). This repository is for solving all the problems and pass all the 
@@ -41,7 +41,7 @@ Concepts Tested in This Superbadge
 3. Apex Integration
 4. Apex Testing
 
-### Process Automation Specialist
+### 2). Process Automation Specialist
 
 What You'll Be Doing to Earn This Superbadge
 • Automate lead ownership using assignment rules
